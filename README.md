@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jakaria</h1>
+<h3 align="center">Flutter Developer | Web App Builder</h3>
 
-<!--
-**Jakariaofficial/Jakariaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building Flutter Web Applications
+- 🌱 Learning Django & Backend Development
+- 💡 Interested in UI/UX & Clean Code
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Python
+- Django (Learning)
+- HTML / CSS
+- Git & GitHub
+
+---
+
+## 📌 Current Project
+
+📝 Advanced Todo Web App  
+✔ Category System  
+✔ SharedPreferences  
+✔ Search & Filter  
+✔ Web Deployment Ready  
+
+---
+
+⭐ Always building. Always learning.
+
